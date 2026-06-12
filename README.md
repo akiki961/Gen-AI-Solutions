@@ -14,6 +14,10 @@ Welcome to **Gen AI Solutions**. This repository is an open-source technical ser
 *   **[Module 2: State Management & In-Memory Caching](./02_in_memory_caching/ARTICLE.md)** 
     *   *Status: Planned* 
     *   *Focus:* Implementing semantic caching and token optimization to slash latency and API costs.
+### 📦 Part 2: Draft
+*   **[Draft 1: Multi Agent Architectures](./01_multi_agent_design/ARTICLE.md)** 
+    *   *Status: Drafting* 
+    *   *Focus:* Building a deterministic reasoning loop from scratch without heavy frameworks.
 
 ---
 
