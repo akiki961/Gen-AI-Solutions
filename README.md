@@ -5,7 +5,7 @@ From Architecture to Production: A guide to building scaling Gen AI systems.
 
 Welcome to **Gen AI Solutions**. This repository is an open-source technical series documenting how to design, optimize, and scale production-ready Generative AI systems. Over time, these modules will be compiled into a comprehensive e-book.
 
-## 🗺️ Book Roadmap & Chapters
+## 🗺️ Book Roadmap & Chapters 
 
 ### 📦 Part 1: Agent Architectures
 *   **[Module 1: Designing the Core Agent Loop](./01_agent_design/ARTICLE.md)** 
